@@ -1,2 +1,2 @@
-# OverviewWeb
-软件竞赛期末汇报web
+# SQ Lottery
+SQ咕噜球！
