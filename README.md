@@ -1,2 +1,2 @@
 # SQ Lottery
-SQ咕噜球！
+Gulu ball game
